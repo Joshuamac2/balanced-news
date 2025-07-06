@@ -1,0 +1,12 @@
+# Node
+node_modules/
+.env
+*.log
+
+# MacOS
+.DS_Store
+
+# Build files
+build/
+dist/
+coverage/
